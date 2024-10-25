@@ -27,10 +27,20 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td> <h3><div>Generative AI</div></h3></td>
   </tr>
   <tr>
-    <td></td>
     <td align="center" width="33%">
-      <h3>Exploring possible usage of LLamaparser as a source for RAG/Context of an LLM </h3>
-      <p></p>
+      <h3>Financial Report.</h3>
+      <p> Showing usage of agentic technologies (Langchain and Langraph).
+      It extracts name of the company from user's request and obtains company's financial information from data providers.
+      </p>
+      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <br>
+      <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
+      <br><br>
+      <small>Langchain | Langgraph</small>
+    </td>
+    <td align="center" width="33%">
+      <h3>Chatting with Pdf file. </h3>
+      <p>Showing usage of LLamaparser, as a source for RAG/Context of an LLM</p>
       <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
       <br>
       <a href="https://github.com/agdev/Llamaindex.git">View on GitHub</a>
