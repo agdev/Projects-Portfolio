@@ -65,8 +65,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
   <tr>
     <td> <h3><div>Tools</div></h3> </td>
   </tr>
-  <tr>
-    <td></td>
+  <tr>    
     <td align="center" width="33%">
       <h3>Docker & Kubernetes</h3>
       <p></p>
@@ -78,5 +77,4 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     </td>
     <td></td>
   </tr>
-  
  </table>
