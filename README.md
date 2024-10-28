@@ -53,7 +53,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td align="center" width="33%">
       <h3>Customer Segmentation</h3>
       <p>Based on selected features and KMeans clustering provides actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.</p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <img src="https://github.com/agdev/SDS-CP008-superstore-customer-segmentation/blob/main/notebooks/alex/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
       <br>
       <a href="https://github.com/SuperDataScience-Community-Projects/SDS-CP008-superstore-customer-segmentation.git/notebooks/alex">View on GitHub</a>
       <br><br>
