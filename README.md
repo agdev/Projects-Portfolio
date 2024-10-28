@@ -30,7 +30,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, GROQ, and APIs for Intelligent Financial Analysis
       </p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <img src="https://github.com/agdev/Langgraph/blob/main/FinancialReport/financial_data_report_graph.png" width="100%" alt="graph">
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
