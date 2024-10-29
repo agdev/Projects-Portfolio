@@ -51,7 +51,9 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <tr>
     <td align="center" width="33%">
       <h3>Routing</h3>
-      <p>Compares accuracy of fine-tuned [ALBERT](https://arxiv.org/abs/1909.11942) type of model vs. [Semantic router](https://github.com/aurelio-labs/semantic-router/) to optimize routing of a user's request/prompt</p>
+      <p>Compares accuracy of fine-tuned 
+      <a href="https://arxiv.org/abs/1909.11942">ALBERT</a> type of model vs. 
+      <a href="https://github.com/aurelio-labs/semantic-router/">Semantic router</a> to optimize routing of a user's request/prompt</p>
       <img src="assets/Routing.png" width="100%" alt="Customer Clustering">
       <br>
       <a href="https://github.com/agdev/Routing">View on GitHub</a>
