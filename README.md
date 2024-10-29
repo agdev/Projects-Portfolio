@@ -85,7 +85,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td align="center" width="33%">
       <h3>Docker & Kubernetes</h3>
       <p>Shows usages of Docker alone and together with Kubernetes</p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <img src="assets/DockerKubernetes.png" width="100%" alt="regression exploration">
       <br>
       <a href="https://github.com/agdev/Docker_Kubern.git">View on GitHub</a>
       <br><br>
