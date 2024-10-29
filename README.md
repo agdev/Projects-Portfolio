@@ -53,7 +53,10 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
   <tr>
     <td align="center" width="33%">
       <h3>Customer Segmentation</h3>
-      <p></p>
+      <h4>Project Objectives</h1>
+      <p>By utilizing clustering algorithms, we aim to provide actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.
+
+Understand Customer Behavior: Identify key patterns in customer purchasing habits, such as frequency of purchases, total spend, product preferences, and discount sensitivity. Create Customer Segments: Group customers into distinct segments based on their transactional data (e.g., purchase history, frequency, order quantity, discount usage, and profitability). Analyze Customer Segments: Understand the characteristics of each segment to tailor business strategies for different customer groups, such as high-value customers, occasional buyers, and discount-driven shoppers. Provide Strategic Recommendations: Based on the segmentation results, suggest marketing, sales, and retention strategies to target each customer segment effectively.</p>
       <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
       <br>
       <a href="https://github.com/SuperDataScience-Community-Projects/SDS-CP008-superstore-customer-segmentation.git/notebooks/alex">View on GitHub</a>
@@ -68,7 +71,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
   <tr>    
     <td align="center" width="33%">
       <h3>Docker & Kubernetes</h3>
-      <p></p>
+      <p>Shows usages of Docker alone and together with Kubernetes</p>
       <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
       <br>
       <a href="https://github.com/agdev/Docker_Kubern.git">View on GitHub</a>
