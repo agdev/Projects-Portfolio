@@ -28,10 +28,9 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
   <tr>
     <td align="center" valign="top" width="33%">
       <h3>Financial Report.</h3>
-      <p> Showing usage of agentic technologies (Langchain and Langraph).
-      It extracts name of the company from user's request and obtains company's financial information from data providers.
+      <p> Financial Agentic System: Combining Langgraph, GROQ, and APIs for Intelligent Financial Analysis
       </p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <img src="https://github.com/agdev/Langgraph/blob/main/FinancialReport/financial_data_report_graph.png" width="100%" alt="graph">
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
@@ -53,11 +52,8 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
   <tr>
     <td align="center" width="33%">
       <h3>Customer Segmentation</h3>
-      <h4>Project Objectives</h1>
-      <p>By utilizing clustering algorithms, we aim to provide actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.
-
-Understand Customer Behavior: Identify key patterns in customer purchasing habits, such as frequency of purchases, total spend, product preferences, and discount sensitivity. Create Customer Segments: Group customers into distinct segments based on their transactional data (e.g., purchase history, frequency, order quantity, discount usage, and profitability). Analyze Customer Segments: Understand the characteristics of each segment to tailor business strategies for different customer groups, such as high-value customers, occasional buyers, and discount-driven shoppers. Provide Strategic Recommendations: Based on the segmentation results, suggest marketing, sales, and retention strategies to target each customer segment effectively.</p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <p>Based on selected features and KMeans clustering provides actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.</p>
+      <img src="https://github.com/agdev/SDS-CP008-superstore-customer-segmentation/blob/main/notebooks/alex/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
       <br>
       <a href="https://github.com/SuperDataScience-Community-Projects/SDS-CP008-superstore-customer-segmentation.git/notebooks/alex">View on GitHub</a>
       <br><br>
