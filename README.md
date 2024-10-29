@@ -30,7 +30,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, GROQ, and APIs for Intelligent Financial Analysis
       </p>
-      <img src="financial_data_report_graph.png" width="100%" alt="graph">
+      <img src="assets/financial_data_report_graph.png" width="100%" alt="graph">
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
@@ -68,7 +68,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td align="center" width="33%">
       <h3>Customer Segmentation</h3>
       <p>Based on selected features and KMeans clustering provides actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.</p>
-      <img src="Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
+      <img src="assets/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
       <br>
       <a href="https://github.com/SuperDataScience-Community-Projects/SDS-CP008-superstore-customer-segmentation.git/notebooks/alex">View on GitHub</a>
       <br><br>
