@@ -38,8 +38,8 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     </td>
     <td align="center" valign="top" width="33%">
       <h3>Chatting with Pdf file. </h3>
-      <p>Showing usage of LLamaparser, as a source for RAG/Context of an LLM</p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <p>LLamaparser as a source for RAG/Context of an LLM</p>
+      <img src="assets/ChatWithPdf.png" width="100%" alt="regression exploration">
       <br>
       <a href="https://github.com/agdev/Llamaindex.git">View on GitHub</a>
       <br><br>
@@ -52,7 +52,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td align="center" width="33%">
       <h3>Routing</h3>
       <p>Compares accuracy of fine-tuned [ALBERT](https://arxiv.org/abs/1909.11942) type of model vs. [Semantic router](https://github.com/aurelio-labs/semantic-router/) to optimize routing of a user's request/prompt</p>
-      <!-- <img src="https://github.com/agdev/SDS-CP008-superstore-customer-segmentation/blob/main/notebooks/alex/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering"> -->
+      <img src="assets/Routing.png" width="100%" alt="Customer Clustering">
       <br>
       <a href="https://github.com/agdev/Routing">View on GitHub</a>
       <br><br>
