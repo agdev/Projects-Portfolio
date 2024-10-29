@@ -30,7 +30,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, GROQ, and APIs for Intelligent Financial Analysis
       </p>
-      <img src="https://github.com/agdev/Langgraph/blob/main/FinancialReport/financial_data_report_graph.png" width="100%" alt="graph">
+      <img src="financial_data_report_graph.png" width="100%" alt="graph">
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
@@ -46,6 +46,21 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <small>LLamaparser | Langchain</small>
     </td>
   </tr>
+   <tr>
+    <td> <h3><div>NLP</div></h3> </td>    
+    <tr>
+    <td align="center" width="33%">
+      <h3>Routing</h3>
+      <p>Compares accuracy of fine-tuned [ALBERT](https://arxiv.org/abs/1909.11942) type of model vs. [Semantic router](https://github.com/aurelio-labs/semantic-router/) to optimize routing of a user's request/prompt</p>
+      <!-- <img src="https://github.com/agdev/SDS-CP008-superstore-customer-segmentation/blob/main/notebooks/alex/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering"> -->
+      <br>
+      <a href="https://github.com/agdev/Routing">View on GitHub</a>
+      <br><br>
+      <small>ALBERT | Fine Tuning | Sentence Transformer</small>
+    </td>
+    <td></td>
+  </tr>
+  </tr>
   <tr>
     <td> <h3><div>Machine Learning</div></h3> </td>
   </tr>
@@ -53,7 +68,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td align="center" width="33%">
       <h3>Customer Segmentation</h3>
       <p>Based on selected features and KMeans clustering provides actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.</p>
-      <img src="https://github.com/agdev/SDS-CP008-superstore-customer-segmentation/blob/main/notebooks/alex/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
+      <img src="Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
       <br>
       <a href="https://github.com/SuperDataScience-Community-Projects/SDS-CP008-superstore-customer-segmentation.git/notebooks/alex">View on GitHub</a>
       <br><br>
