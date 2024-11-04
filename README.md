@@ -35,6 +35,16 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
       <small>Langchain | Langgraph</small>
+    </td>   
+    <td align="center" valign="top" width="33%">
+      <h3>Financial Assistant.</h3>
+      <p> Financial Agentic System with Routing: Combining Langgraph, GROQ, and APIs for  Free chat, specific tasks and/or report creation
+      </p>
+      <img src="assets/financial_asstant_graph.png" width="100%" alt="graph">
+      <br>
+      <a href="https://github.com/agdev/Langgraph/tree/main/FinancialAssistant">View on GitHub</a>
+      <br><br>
+      <small>Routing | Langchain | Langgraph</small>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>Chatting with Pdf file. </h3>
@@ -59,8 +69,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <a href="https://github.com/agdev/Routing">View on GitHub</a>
       <br><br>
       <small>ALBERT | Fine Tuning | Sentence Transformer</small>
-    </td>
-    <td></td>
+    </td>    
   </tr>
   </tr>
   <tr>
