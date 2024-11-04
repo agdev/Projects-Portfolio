@@ -11,18 +11,6 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
 ### Classification Models
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>Comparing accuracy of fine-tuned ALBERT type of model vs. Sentence transformer</h3>
-      <p></p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
-      <br>
-      <a href="https://github.com/agdev/Routing.git">View on GitHub</a>
-      <br><br>
-      <small>ALBERT | Semantic router | Sentence transformers | Customer Segments </small>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
     <td> <h3><div>Generative AI</div></h3></td>
   </tr>
   <tr>
@@ -55,7 +43,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <br><br>
       <small>LLamaparser | Langchain</small>
     </td>
-  </tr>
+  </tr>  
    <tr>
     <td> <h3><div>NLP</div></h3> </td>    
     <tr>
@@ -70,6 +58,15 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <br><br>
       <small>ALBERT | Fine Tuning | Sentence Transformer</small>
     </td>    
+    <td align="center" width="33%">
+      <h3>Comparing accuracy of fine-tuned ALBERT type of model vs. Sentence transformer</h3>
+      <p></p>
+      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
+      <br>
+      <a href="https://github.com/agdev/Routing.git">View on GitHub</a>
+      <br><br>
+      <small>ALBERT | Semantic router | Sentence transformers | Customer Segments </small>
+    </td>
   </tr>
   </tr>
   <tr>
