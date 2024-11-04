@@ -76,6 +76,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <small>KMeans | Unsupervised classification | Customer Behavior</small>
     </td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td> <h3><div>Tools</div></h3> </td>
@@ -90,6 +91,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <br><br>
       <small>Docker | Kubernetes </small>
     </td>
+    <td></td>
     <td></td>
   </tr>
  </table>
