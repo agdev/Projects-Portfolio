@@ -7,8 +7,6 @@ I'm naturally curious and a forward-thinking leader with a unique combination of
 Currently I am looking for opportunity where I can apply my skills to bring business value through leveraging technology, especially AI
 
 # Projects
-
-### Classification Models
 <table>
   <tr>
     <td> <h3><div>Generative AI</div></h3></td>
@@ -48,7 +46,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
     <td> <h3><div>NLP</div></h3> </td>    
     <tr>
     <td align="center" width="33%">
-      <h3>Routing</h3>
+      <h3>Classification Models</h3>
       <p>Compares accuracy of fine-tuned 
       <a href="https://arxiv.org/abs/1909.11942">ALBERT</a> type of model vs. 
       <a href="https://github.com/aurelio-labs/semantic-router/">Semantic router</a> to optimize routing of a user's request/prompt</p>
@@ -57,16 +55,11 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <a href="https://github.com/agdev/Routing">View on GitHub</a>
       <br><br>
       <small>ALBERT | Fine Tuning | Sentence Transformer</small>
+    </td>   
+    <td> 
     </td>    
-    <td align="center" width="33%">
-      <h3>Comparing accuracy of fine-tuned ALBERT type of model vs. Sentence transformer</h3>
-      <p></p>
-      <!-- <img src="https://github.com/user-attachments/assets/82f97fea-4717-4482-b754-26d32c6efd6f" width="100%" alt="regression exploration"> -->
-      <br>
-      <a href="https://github.com/agdev/Routing.git">View on GitHub</a>
-      <br><br>
-      <small>ALBERT | Semantic router | Sentence transformers | Customer Segments </small>
-    </td>
+    <td> 
+    </td>    
   </tr>
   </tr>
   <tr>
