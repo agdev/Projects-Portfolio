@@ -5,6 +5,7 @@ I'm naturally curious and a forward-thinking leader with a unique combination of
 * Expert in managing remote software development projects and teams across time zones (USA & Europe) using agile methodologies and collaborative tools for seamless communication.
 
 Currently I am looking for opportunity where I can apply my skills to bring business value through leveraging technology, especially AI
+More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)
 
 # Projects
 <table>
@@ -44,7 +45,7 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
   </tr>  
   <tr>
    <td align="center" valign="top" width="33%">
-      <h3>Contextual RAG.</h3>
+      <h3>Contextual RAG</h3>
       <p> Comparison of Contextual Retrieval implementation with "traditional" implementation.
       </p>
       <img src="assets/context_vs_regular_rag.png" width="100%" alt="graph">
