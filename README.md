@@ -42,6 +42,18 @@ Currently I am looking for opportunity where I can apply my skills to bring busi
       <small>LLamaparser | Langchain</small>
     </td>
   </tr>  
+  <tr>
+   <td align="center" valign="top" width="33%">
+      <h3>Contextual RAG.</h3>
+      <p> Comparison of Contextual Retrieval implementation with "traditional" implementation.
+      </p>
+      <img src="assets/context_vs_regular_rag.png" width="100%" alt="graph">
+      <br>
+      <a href="https://github.com/agdev/RAG/tree/main/ContextRetrieval">View on GitHub</a>
+      <br><br>
+      <small>RAG | Contextual Retrieval | Embedding</small>
+    </td>   
+  </tr>
    <tr>
     <td> <h3><div>NLP</div></h3> </td>    
     <tr>
