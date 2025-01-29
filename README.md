@@ -6,8 +6,9 @@
  production-ready  systems and leading global teams to transform complex business 
  challenges into high-impact software solutions. Currently focused on developing and 
  deploying generative AI and machine learning applications to enhance business performance 
- through innovative technical solutions.
-More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
+ through innovative technical solutions.***
+
+***More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
 
 # Projects
 <table>
