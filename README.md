@@ -1,5 +1,5 @@
 # Alexander Gurevich
-*A product-focused technical leader specializing in AI/ML solutions with over 20 years of 
+***A product-focused technical leader specializing in AI/ML solutions with over 20 years of 
  software engineering expertise with hands-on experience with LangGraph, RAG, and 
  LangChain implementations. Passionate about bridging the gap between 
  technical capabilities and business value, with proven track record of implementing 
@@ -7,7 +7,7 @@
  challenges into high-impact software solutions. Currently focused on developing and 
  deploying generative AI and machine learning applications to enhance business performance 
  through innovative technical solutions.
-More details on my **[Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
+More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
 
 # Projects
 <table>
