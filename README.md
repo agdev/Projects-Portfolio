@@ -1,11 +1,13 @@
 # Alexander Gurevich
-I'm naturally curious and a forward-thinking leader with a unique combination of business and technical skills and over 20 years of experience in software engineering and development. I bring extensive knowledge of the financial industry to my work. Currently, I am focused on Generative AI and ML.
-
-* Love talking to customers and Skilled at identifying business challenges and addressing them with technological solutions.
-* Expert in managing remote software development projects and teams across time zones (USA & Europe) using agile methodologies and collaborative tools for seamless communication.
-
-Currently I am looking for opportunity where I can apply my skills to bring business value through leveraging technology, especially AI
-More details on my [Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)
+*A product-focused technical leader specializing in AI/ML solutions with over 20 years of 
+ software engineering expertise with hands-on experience with LangGraph, RAG, and 
+ LangChain implementations. Passionate about bridging the gap between 
+ technical capabilities and business value, with proven track record of implementing 
+ production-ready  systems and leading global teams to transform complex business 
+ challenges into high-impact software solutions. Currently focused on developing and 
+ deploying generative AI and machine learning applications to enhance business performance 
+ through innovative technical solutions.
+More details on my **[Linkedin Profile](https://www.linkedin.com/in/alexandergurevich/)***
 
 # Projects
 <table>
