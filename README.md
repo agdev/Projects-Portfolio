@@ -16,6 +16,30 @@
     <td> <h3><div>Generative AI</div></h3></td>
   </tr>
   <tr>
+   <td align="center" valign="top" width="33%">
+      <h3>Contextual RAG</h3>
+      <p> Comparison of Contextual Retrieval implementation with "traditional" implementation.
+      </p>
+      <img src="assets/context_vs_regular_rag.png" width="100%" alt="graph">
+      <br>
+      <a href="https://github.com/agdev/RAG/tree/main/ContextRetrieval">View on GitHub</a>
+      <br><br>
+      <small>RAG | Contextual Retrieval | Embedding</small>
+    </td>   
+    <td valign="top">
+    <h3>Polyglot - AI Language Learning Assistant</h3>
+      <p> 
+        AI Language Learning Assistant that understand textual and audio inputs
+        Translates, speaks via audio files and creates vocabulary for future practice
+      </p>
+      <img src="assets/polyglot_workflow.png" width="100%" alt="graph">
+      <br>
+      <a href="https://github.com/agdev/polyglot">View on GitHub</a>
+      <br><br>
+      <small>Langchain | Langgraph </small>
+    </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="33%">
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, GROQ, and APIs for Intelligent Financial Analysis
@@ -46,18 +70,7 @@
       <small>LLamaparser | Langchain</small>
     </td>
   </tr>  
-  <tr>
-   <td align="center" valign="top" width="33%">
-      <h3>Contextual RAG</h3>
-      <p> Comparison of Contextual Retrieval implementation with "traditional" implementation.
-      </p>
-      <img src="assets/context_vs_regular_rag.png" width="100%" alt="graph">
-      <br>
-      <a href="https://github.com/agdev/RAG/tree/main/ContextRetrieval">View on GitHub</a>
-      <br><br>
-      <small>RAG | Contextual Retrieval | Embedding</small>
-    </td>   
-  </tr>
+  
    <tr>
     <td> <h3><div>NLP</div></h3> </td>    
     <tr>
