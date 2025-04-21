@@ -42,13 +42,13 @@
   <tr>
     <td align="center" valign="top" width="33%">
       <h3>Financial Report.</h3>
-      <p> Financial Agentic System: Combining Langgraph, GROQ, and APIs for Intelligent Financial Analysis
+      <p> Financial Agentic System: Combining Langgraph, Langchain, GROQ, and APIs for Intelligent Financial Analysis
       </p>
       <img src="assets/financial_data_report_graph.png" width="100%" alt="graph">
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
-      <small>Langchain | Langgraph</small>
+      <small>Langchain | Langgraph | Cross Sessions Memory</small>
     </td>   
     <td align="center" valign="top" width="33%">
       <h3>Financial Assistant.</h3>
