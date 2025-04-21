@@ -40,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <!-- <td align="center" valign="top" width="33%">
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, Langchain, GROQ, and APIs for Intelligent Financial Analysis
       </p>
@@ -48,17 +48,17 @@
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
-      <small>Langchain | Langgraph | Cross Sessions Memory</small>
-    </td>   
+      <small>Langchain | Langgraph</small>
+    </td>    -->
     <td align="center" valign="top" width="33%">
       <h3>Financial Assistant.</h3>
-      <p> Financial Agentic System with Routing: Combining Langgraph, GROQ, and APIs for  Free chat, specific tasks and/or report creation
+      <p> Financial Agentic System with Routing and Cross Sessions Memory: Combining Langgraph, GROQ, and APIs for  Free chat, specific tasks and/or report creation
       </p>
       <img src="assets/financial_asstant_graph.png" width="100%" alt="graph">
       <br>
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialAssistant">View on GitHub</a>
       <br><br>
-      <small>Routing | Langchain | Langgraph</small>
+      <small>Langchain | Langgraph | Routing | Cross Sessions Memory</small>
     </td>
     <td align="center" valign="top" width="33%">
       <h3>Chatting with Pdf file. </h3>
