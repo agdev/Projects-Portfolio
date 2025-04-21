@@ -36,9 +36,7 @@
       <br><br>
       <small>Langchain | Langgraph | Routing | Cross Sessions Memory</small>
     </td>
-  </tr>
-  <tr>
-  <td valign="top">
+    <td valign="top">
     <h3>Polyglot - AI Language Learning Assistant</h3>
       <p> 
         AI Language Learning Assistant that understand textual and audio inputs
@@ -50,6 +48,8 @@
       <br><br>
       <small>Langchain | Langgraph </small>
     </td>
+  </tr>
+  <tr>
     <!-- <td align="center" valign="top" width="33%">
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, Langchain, GROQ, and APIs for Intelligent Financial Analysis
