@@ -26,7 +26,19 @@
       <br><br>
       <small>RAG | Contextual Retrieval | Embedding</small>
     </td>   
-    <td valign="top">
+    <td align="center" valign="top" width="33%">
+      <h3>Financial Assistant.</h3>
+      <p> Financial Agentic System with Routing and Cross Sessions Memory: Combining Langgraph, GROQ, and APIs for  Free chat, specific tasks and/or report creation
+      </p>
+      <img src="assets/financial_asstant_graph.png" width="100%" alt="graph">
+      <br>
+      <a href="https://github.com/agdev/Langgraph/tree/main/FinancialAssistant">View on GitHub</a>
+      <br><br>
+      <small>Langchain | Langgraph | Routing | Cross Sessions Memory</small>
+    </td>
+  </tr>
+  <tr>
+  <td valign="top">
     <h3>Polyglot - AI Language Learning Assistant</h3>
       <p> 
         AI Language Learning Assistant that understand textual and audio inputs
@@ -38,8 +50,6 @@
       <br><br>
       <small>Langchain | Langgraph </small>
     </td>
-  </tr>
-  <tr>
     <!-- <td align="center" valign="top" width="33%">
       <h3>Financial Report.</h3>
       <p> Financial Agentic System: Combining Langgraph, Langchain, GROQ, and APIs for Intelligent Financial Analysis
@@ -49,17 +59,7 @@
       <a href="https://github.com/agdev/Langgraph/tree/main/FinancialReport">View on GitHub</a>
       <br><br>
       <small>Langchain | Langgraph</small>
-    </td>    -->
-    <td align="center" valign="top" width="33%">
-      <h3>Financial Assistant.</h3>
-      <p> Financial Agentic System with Routing and Cross Sessions Memory: Combining Langgraph, GROQ, and APIs for  Free chat, specific tasks and/or report creation
-      </p>
-      <img src="assets/financial_asstant_graph.png" width="100%" alt="graph">
-      <br>
-      <a href="https://github.com/agdev/Langgraph/tree/main/FinancialAssistant">View on GitHub</a>
-      <br><br>
-      <small>Langchain | Langgraph | Routing | Cross Sessions Memory</small>
-    </td>
+    </td>    -->    
     <td align="center" valign="top" width="33%">
       <h3>Chatting with Pdf file. </h3>
       <p>LLamaparser as a source for RAG/Context of an LLM</p>
