@@ -1,0 +1,11 @@
+{
+  "name": "Jekyll Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [4000],
+  "postCreateCommand": "bundle install",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  }
+}
