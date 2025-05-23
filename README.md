@@ -12,7 +12,7 @@
 
 # Products
 
-![Products-Portfolio](https://agdev.github.io/Products-Portfolio/)
+**[Products Portfolio](https://agdev.github.io/Products-Portfolio/)**
 
 # Projects
 <table>
