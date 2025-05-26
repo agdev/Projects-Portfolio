@@ -14,17 +14,54 @@
 {% seo %}
 
     {% include head-custom.html %}
+    
+    <style>
+      .header-flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+      }
+      
+      .header-flex h1 {
+        white-space: nowrap;
+        margin: 0;
+        flex-shrink: 0;
+      }
+      
+      .header-flex img {
+        flex-shrink: 0;
+        margin-right: 5px;
+      }
+      
+      @media screen and (max-width: 768px) {
+        .header-flex {
+          flex-direction: column;
+          align-items: center;
+        }
+        
+        .header-flex img {
+          margin-right: 0;
+          margin-bottom: 10px;
+        }
+        
+        .header-flex h1 {
+          white-space: normal;
+          text-align: center;
+        }
+      }
+    </style>
   </head>
 
   <body>
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <p align="center">
+        <div class="header-flex">
           <img src="assets/BusinessCard.png" alt="Alexander Gurevich" width="200"/>
-        </p>
+          <a href="{{ '/' | absolute_url }}">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          </a>
+        </div>
         <!-- <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
         <!-- {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
