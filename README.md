@@ -17,11 +17,11 @@
 # Projects
 <table>
   <tr>
-    <td> <h3><div>Generative AI</div></h3></td>
+    <td> <h2><div>Generative AI</div></h2></td>
   </tr>
   <tr>
    <td align="center" valign="top" width="33%">
-      <h3>Contextual RAG</h3>
+      <h4>Contextual RAG</h4>
       <p> Comparison of Contextual Retrieval implementation with "traditional" implementation.
       </p>
       <img src="assets/context_vs_regular_rag.png" width="100%" alt="graph">
@@ -31,7 +31,7 @@
       <small>RAG | Contextual Retrieval | Embedding</small>
     </td>   
     <td align="center" valign="top" width="33%">
-      <h3>Financial Assistant.</h3>
+      <h4>Financial Assistant.</h4>
       <p> Financial Agentic System with Routing and Cross Sessions Memory: Combining Langgraph, GROQ, and APIs for  Free chat, specific tasks and/or report creation
       </p>
       <img src="assets/financial_asstant_graph.png" width="100%" alt="graph">
@@ -41,7 +41,7 @@
       <small>Langchain | Langgraph | Routing | Cross Sessions Memory</small>
     </td>
     <td valign="top">
-    <h3>Polyglot - AI Language Learning Assistant</h3>
+    <h4>Polyglot - AI Language Learning Assistant</h4>
       <p> 
         AI Language Learning Assistant that understand textual and audio inputs
         Translates, speaks via audio files and creates vocabulary for future practice
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <!-- <td align="center" valign="top" width="33%">
-      <h3>Financial Report.</h3>
+      <h4>Financial Report.</h4>
       <p> Financial Agentic System: Combining Langgraph, Langchain, GROQ, and APIs for Intelligent Financial Analysis
       </p>
       <img src="assets/financial_data_report_graph.png" width="100%" alt="graph">
@@ -65,7 +65,7 @@
       <small>Langchain | Langgraph</small>
     </td>    -->    
     <td align="center" valign="top" width="33%">
-      <h3>Chatting with Pdf file. </h3>
+      <h4>Chatting with Pdf file. </h4>
       <p>LLamaparser as a source for RAG/Context of an LLM</p>
       <img src="assets/ChatWithPdf.png" width="100%" alt="regression exploration">
       <br>
@@ -76,10 +76,10 @@
   </tr>  
   
    <tr>
-    <td> <h3><div>NLP</div></h3> </td>    
+    <td> <h2><div>NLP</div></h2> </td>    
     <tr>
     <td align="center" width="33%">
-      <h3>Classification Models</h3>
+      <h4>Classification Models</h4>
       <p>Compares accuracy of fine-tuned 
       <a href="https://arxiv.org/abs/1909.11942">ALBERT</a> type of model vs. 
       <a href="https://github.com/aurelio-labs/semantic-router/">Semantic router</a> to optimize routing of a user's request/prompt</p>
@@ -96,11 +96,11 @@
   </tr>
   </tr>
   <tr>
-    <td> <h3><div>Machine Learning</div></h3> </td>
+    <td> <h2><div>Machine Learning</div></h2> </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <h3>Customer Segmentation</h3>
+      <h4>Customer Segmentation</h4>
       <p>Based on selected features and KMeans clustering provides actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.</p>
       <img src="assets/Region_vs_Profit_Clustering.png" width="100%" alt="Customer Clustering">
       <br>
@@ -112,11 +112,11 @@
     <td></td>
   </tr>
   <tr>
-    <td> <h3><div>Tools</div></h3> </td>
+    <td> <h2><div>Tools</div></h2> </td>
   </tr>
   <tr>    
     <td align="center" width="33%">
-      <h3>Docker & Kubernetes</h3>
+      <h4>Docker & Kubernetes</h4>
       <p>Shows usages of Docker alone and together with Kubernetes</p>
       <img src="assets/DockerKubernetes.png" width="100%" alt="regression exploration">
       <br>
