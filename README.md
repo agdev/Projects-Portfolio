@@ -1,4 +1,4 @@
-# Alexander Gurevich
+<!-- # Alexander Gurevich -->
 ***A product-focused technical leader specializing in AI/ML solutions with over 20 years of 
  software engineering expertise with hands-on experience with LangGraph, RAG, and 
  LangChain implementations. Passionate about bridging the gap between 

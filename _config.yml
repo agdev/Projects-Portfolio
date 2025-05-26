@@ -1,5 +1,10 @@
-title: Alexander Gurevich - Projects Portfolio
+title: Alexander Gurevich
 logo: /assets/BusinessCard.png
 #description: text below image
 show_downloads: false
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/architect@v0.2.0
+# theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-seo-tag
+github_hide: true
