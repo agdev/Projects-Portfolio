@@ -16,38 +16,49 @@
     {% include head-custom.html %}
     
     <style>
-      .header-flex {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        flex-wrap: nowrap;
+      header .inner .header-flex {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+        flex-wrap: nowrap !important;
+        gap: 0 !important;
       }
       
-      .header-flex h1 {
-        white-space: nowrap;
-        margin: 0;
-        flex-shrink: 0;
+      header .inner .header-flex h1 {
+        white-space: nowrap !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        flex-shrink: 0 !important;
       }
       
-      .header-flex img {
-        flex-shrink: 0;
-        margin-right: 5px;
+      header .inner .header-flex a {
+        text-decoration: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        margin-left: 10px !important;
+      }
+      
+      header .inner .header-flex img {
+        flex-shrink: 0 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
       }
       
       @media screen and (max-width: 768px) {
-        .header-flex {
-          flex-direction: column;
-          align-items: center;
+        header .inner .header-flex {
+          flex-direction: column !important;
+          align-items: center !important;
         }
         
-        .header-flex img {
-          margin-right: 0;
-          margin-bottom: 10px;
+        header .inner .header-flex a {
+          margin-left: 0 !important;
+          margin-top: 10px !important;
         }
         
-        .header-flex h1 {
-          white-space: normal;
-          text-align: center;
+        header .inner .header-flex h1 {
+          white-space: normal !important;
+          text-align: center !important;
         }
       }
     </style>
